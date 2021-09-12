@@ -267,7 +267,7 @@ install -m 644 *.8 %{buildroot}%{_mandir}/man8
 - Better dependencies for all distros
 * Mon Mar 31 2003 Miguel Beccari <miguel.beccari@clikka.com> 0.88-1.0.5
 - Conectiva Linux 7.0 support
-* Sun Feb 15 2003 Nick Hemmesch <nick@ndhsoft.com> 0.88-1.0.4
+* Sat Feb 15 2003 Nick Hemmesch <nick@ndhsoft.com> 0.88-1.0.4
 - Support for Red Hat 8.0
 * Wed Feb 05 2003 Miguel Beccari <miguel.beccari@clikka.com> 0.88-1.0.3
 - Support for Red Hat 8.0 thanks to Andrew.J.Kay
@@ -300,15 +300,15 @@ install -m 644 *.8 %{buildroot}%{_mandir}/man8
 - New version: 0.7 toaster.
 - Clean-ups on compiler detecting (now it works again)
 - Better macros to detect Mandrake Release
-* Thu Aug 13 2002 Miguel Beccari <miguel.beccari@clikka.com> 0.6.0.88-1
+* Tue Aug 13 2002 Miguel Beccari <miguel.beccari@clikka.com> 0.6.0.88-1
 - New version: 0.6 toaster.
 * Mon Aug 12 2002 Miguel Beccari <miguel.beccari@clikka.com> 0.5.0.88-1
 - Doc package is standalone (someone does not ask for man pages)
 - Checks for gcc-3.2 (default compiler from now)
 - New version: 0.5 toaster.
-* Tue Aug 08 2002 Miguel Beccari <miguel.beccari@clikka.com> 0.4.0.88-1
+* Thu Aug 08 2002 Miguel Beccari <miguel.beccari@clikka.com> 0.4.0.88-1
 - Rebuild agains 0.4 toaster
-* Thu Aug 06 2002 Miguel Beccari <miguel.beccari@clikka.com> 0.3.0.88-3
+* Tue Aug 06 2002 Miguel Beccari <miguel.beccari@clikka.com> 0.3.0.88-3
 - Better dependencies for RedHat
 * Tue Jul 30 2002 Miguel Beccari <miguel.beccari@clikka.com> 0.3.0.88-2
 - Now packages have got 'no sex': you can rebuild them with command line
